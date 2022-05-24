@@ -15,6 +15,12 @@
 **addition**
   - 1 check zero
   - 2 equalize exponents
-  - 3 add significands
+  - 3 add signed significands
+  - 4 normalize and round result
+
+**suntraction**
+  - 1 check zero and flip sign of minuend
+  - 2 equalize exponents
+  - 3 add signed significands
   - 4 normalize and round result
 #
