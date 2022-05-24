@@ -10,3 +10,4 @@
   x / y == (0x1.0 / 0x1.4)p(1 - 2)
 ```
 #
+## steps description
