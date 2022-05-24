@@ -11,3 +11,10 @@
 ```
 #
 ## steps description
+#
+**addition**
+  - 1 check zero
+  - 2 equalize exponents
+  - 3 add significands
+  - 4 normalize and round result
+#
