@@ -12,15 +12,28 @@
 #
 ## steps description
 #
-**addition**
-  - 1 check zero
+**addition:**
+  - 1 check and process zero
   - 2 equalize exponents
   - 3 add signed significands
   - 4 normalize and round result
 
-**suntraction**
-  - 1 check zero and flip sign of minuend
-  - 2 equalize exponents
-  - 3 add signed significands
+**suntraction:**
+  - 1 check and process zero
+  - 2 flip sign of minuend
+  - 3 equalize exponents
+  - 4 add signed significands
+  - 5 normalize and round result
+
+**multiplication**
+  - 1 check and process zero
+  - 2 get sum of exponents
+  - 3 multiply signed significands
+  - 4 normalize and round result
+
+**division**
+  - 1 check and process zero
+  - 2 get difference of exponents
+  - 3 divide signed dignificands
   - 4 normalize and round result
 #
