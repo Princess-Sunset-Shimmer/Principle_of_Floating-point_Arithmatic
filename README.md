@@ -1,5 +1,5 @@
 # Principle_of_Floating-point_Arithmatic
-#
+
 **example of principle:**
 
  x = 0x1.0p1; y = 0x1.4p2
@@ -9,9 +9,9 @@
   x * y == (0x1.0 * 0x1.4)p(1 + 2)
   x / y == (0x1.0 / 0x1.4)p(1 - 2)
 ```
-#
+
 ## steps description
-#
+
 **addition:**
   - 1 check and process zero
   - 2 equalize exponents
@@ -36,4 +36,4 @@
   - 2 get difference of exponents
   - 3 divide signed dignificands
   - 4 normalize and round result
-#
+
