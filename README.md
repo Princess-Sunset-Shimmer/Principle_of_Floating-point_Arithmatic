@@ -37,3 +37,4 @@
   - 3 divide signed dignificands
   - 4 normalize and round result
 
+## special numbers
