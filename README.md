@@ -38,3 +38,8 @@
   - 4 normalize and round result
 
 ## special numbers
+```
+  Not_a_Number == 0.0 / 0.0
+  Positive_Infinity == 1.0 / 0.0
+  Negative_Inginity == -1.0 / 0.0
+```
