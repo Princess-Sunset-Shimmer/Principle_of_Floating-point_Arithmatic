@@ -43,3 +43,9 @@
   Positive_Infinity == 1.0 / 0.0
   Negative_Inginity == -1.0 / 0.0
 ```
+
+## rounding policy
+> round toward nearest
+> round toward positive_infinity
+> round toward negative_infinity
+> round toward zero
