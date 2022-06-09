@@ -46,6 +46,6 @@
 
 ## rounding policy
 > round toward nearest
-> round toward positive_infinity
-> round toward negative_infinity
-> round toward zero
+>> round toward positive_infinity
+>>> round toward negative_infinity
+>>>> round toward zero
