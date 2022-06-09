@@ -18,7 +18,7 @@
   - 3 add signed significands
   - 4 normalize and round result
 
-**suntraction:**
+**subtraction:**
   - 1 check and process zero
   - 2 flip sign of minuend
   - 3 equalize exponents
