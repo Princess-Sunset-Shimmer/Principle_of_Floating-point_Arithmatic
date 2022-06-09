@@ -45,7 +45,7 @@
 ```
 
 ## rounding policy
-> round toward nearest
->> round toward positive_infinity
->>> round toward negative_infinity
->>>> round toward zero
+1. round toward nearest
+2. round toward positive_infinity
+3. round toward negative_infinity
+4. round toward zero
